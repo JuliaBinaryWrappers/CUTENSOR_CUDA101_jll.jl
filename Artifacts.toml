@@ -1,9 +1,9 @@
 [[CUTENSOR_CUDA101]]
 arch = "x86_64"
-git-tree-sha1 = "fc0cbd908def0033353c1feb4ef4844bd0949d1e"
+git-tree-sha1 = "e2c2c823b3cb5030389cab74001ae4371b3e6665"
 libc = "glibc"
 os = "linux"
 
     [[CUTENSOR_CUDA101.download]]
-    sha256 = "b44efce540ae9de8bbf3d45e04d8b6f13f9dabee20afb16e1e7897bb6dd2ccce"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.0.1+0/CUTENSOR_CUDA101.v1.0.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "6f6af02aa32d15be5019bfd47a28fafa785f47b5adee7b351a993a411cf1261d"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.1.0+0/CUTENSOR_CUDA101.v1.1.0.x86_64-linux-gnu.tar.gz"
