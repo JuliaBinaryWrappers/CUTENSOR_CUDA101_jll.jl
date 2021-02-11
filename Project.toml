@@ -1,6 +1,6 @@
 name = "CUTENSOR_CUDA101_jll"
 uuid = "c2b537fd-2c7d-5f1c-8e77-78945a4d1c3a"
-version = "1.2.1+0"
+version = "1.2.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -11,6 +11,6 @@ Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
-JLLWrappers = "1.1.0"
+JLLWrappers = "1.2.0"
 julia = "1.0"
 CUDA_jll = "=10.1.243"

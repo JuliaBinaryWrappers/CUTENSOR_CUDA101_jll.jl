@@ -1,26 +1,26 @@
 [[CUTENSOR_CUDA101]]
 arch = "x86_64"
-git-tree-sha1 = "f1db721383620b9d06b45c57d211c85c40133e5a"
+git-tree-sha1 = "8fde822e7da9e38f55a0e4134d904dd61aeb6ad0"
 libc = "glibc"
 os = "linux"
 
     [[CUTENSOR_CUDA101.download]]
-    sha256 = "a4905dc2539b0114487f9a742f11f7932095c19817c5152f4902c3db68b8b2d2"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.1+0/CUTENSOR_CUDA101.v1.2.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "3883cb71f49b1d9d9c39d74d2c5a4985f9878b037502c1920061f040ffa6d8bd"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.2+0/CUTENSOR_CUDA101.v1.2.2.x86_64-linux-gnu.tar.gz"
 [[CUTENSOR_CUDA101]]
 arch = "powerpc64le"
-git-tree-sha1 = "83889538efc9a5eb5dd20e885a55e3efdac65f35"
+git-tree-sha1 = "49c3b4c6edc6f59b2093a760299ba602cd83509a"
 libc = "glibc"
 os = "linux"
 
     [[CUTENSOR_CUDA101.download]]
-    sha256 = "aa658ae8cb779530d8c5e411282bf1e5ff6743f8093a3a9dfdd60797c3a1e55d"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.1+0/CUTENSOR_CUDA101.v1.2.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "05540522a0481604481e734d47bea453119b14ae3c1b6f6a36348d2d21c2f4a1"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.2+0/CUTENSOR_CUDA101.v1.2.2.powerpc64le-linux-gnu.tar.gz"
 [[CUTENSOR_CUDA101]]
 arch = "x86_64"
-git-tree-sha1 = "21f5d6a83306fdca4fe7676e3d5cf5e7ca2e5ce9"
+git-tree-sha1 = "c6f183d1d795e69687315dd64759d71d7e8a7932"
 os = "windows"
 
     [[CUTENSOR_CUDA101.download]]
-    sha256 = "23641941e648d2ce9622c422dbcb522b3c6f0be665cf4e181bbc3ae87c69158f"
-    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.1+0/CUTENSOR_CUDA101.v1.2.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "d922563c3a737f13d2b017da5d3828a9bc468855c13a3ba5040e88c17bd6f3f1"
+    url = "https://github.com/JuliaBinaryWrappers/CUTENSOR_CUDA101_jll.jl/releases/download/CUTENSOR_CUDA101-v1.2.2+0/CUTENSOR_CUDA101.v1.2.2.x86_64-w64-mingw32.tar.gz"
